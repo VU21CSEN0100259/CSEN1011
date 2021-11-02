@@ -1,0 +1,6 @@
+Algorithm to find wether a number is even or odd 
+1. start 
+2. accept a number 
+3. divide the number by 2
+4. if we get reminder 0, the number is even , else it is odd 
+5. Stop
