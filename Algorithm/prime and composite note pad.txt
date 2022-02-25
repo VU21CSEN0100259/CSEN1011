@@ -1,9 +1,0 @@
-Algarithm to find weather the number is prime or composite 
-1. start 
-2. accept the positve integer [number > 2]
-3. inistialise counter with value 2 
-4. divide a number with counter value 
-5. if the reminder is 0, display that the number is composite and stop
-6. else, increment the counter and repat on step 4 until counter value is less then "n"
-7. after completing all the steps, display that the number "n" is prime
-8. end/stop
